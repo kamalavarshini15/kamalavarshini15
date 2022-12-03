@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kamalavarshini15
-- 👀 I’m interested in Ai and ML 
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on anything which interest me
-- 📫 How to reach me email: drponni01@gmail.com 
+- 👋 Hi, I’m @kamalavarshini15 a Student with Both computer and Biology Background 
+- 👀 I’m interested in AI and ML so, incorporating ML into biologyyy ;)
+- 🌱 I’m currently learning python hoping to learn more QwQ
+- 💞️ I’m looking to collaborate on anything which interest me , like ANYTHING ;O
+- 📫 How to reach me Email: drponni01@gmail.com ...LET'S GO...
 
 <!---
 kamalavarshini15/kamalavarshini15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
